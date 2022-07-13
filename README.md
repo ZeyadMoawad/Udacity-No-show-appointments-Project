@@ -1,7 +1,7 @@
 # Udacity-No-show-appointments-Project
 This poject was completed as part of Udacity Data Analyst Nano Degree course requirements.
 
-#Dataset
+# Dataset
 
 Dataset collected of 100k appointments made in medical offices in Brazil. Data shows patients who have made appointments but who have not showed up. What are some of the commonalities behind persons not showing up?
 # Analysis
